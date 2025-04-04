@@ -1,10 +1,10 @@
 // Array of images (Use relative paths inside your "images" folder)
 // Array of images
 const images = [
-    "c:\Users\karth\OneDrive\Pictures\tharuni7.jpg",
-    "c:\Users\karth\OneDrive\Pictures\tharuni.jpg",
-    "c:\Users\karth\OneDrive\Pictures\tharuni4.jpg",
-    "c:\Users\karth\OneDrive\Pictures\tharuni6.jpg"
+    "images/tharuni.jpg",
+    "images/tharuni1.jpg",
+    "images/tharuni2.jpg",
+    "images/tharuni3.jpg"
 ];
 
 let currentIndex = 0;
